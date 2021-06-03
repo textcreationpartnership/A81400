@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mighty day of the Lord, is coming. In which, Christ is exalting King upon the holy hill of Sion, over all the world to reign, who in this day of the Lord knocks at the door of the heart of Jew and Gentile, kindreds, tongues, people and nations, who desires to know the onely true God, and Christ Jesus whom he hath sent to be the light of the world, and salvation to the ends of the earth, to all that obey him; but a stone of stumbling and a rock of offence to all that reject his counsel, whom he will take in their own craft, and overturn in their own devices to the shame and confusion of their faces; but they that believe in him, shall never be ashamed. The word of the Lord to all the faithful scattered in the world, that in the counsel of the Lord stands to strengthen the desires raised towards his name, them to give victory over the world. A warning to all that dwell upon the earth, and to the kings, princes, and rulers in the world, to submit to Christ the light of the world, lest they perish in the day of his fierce wrath, when the hearts of all that disobey him, do fall before him. / From the common goal in Northampton, the 7 day of the 11 month, 1655. Given forth by him the world knows by name, William Dewsbery, at the writing of this, prisoner for the word of God, and testimony of Jesus Christ.</title>
+            <author>Dewsbury, William, 1621-1688.</author>
+         </titleStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81400</idno><idno type="EEBO-CITATION">99865781</idno>
+  <idno type="VID">168356</idno>
+  <idno type="EEBO-PROQUEST">2248498350</idno>
+  
+            <idno type="STC">Wing D1271</idno>
+            <idno type="STC">Thomason E863_5</idno>
+            <idno type="STC">ESTC R206665</idno>
+            <idno type="PROQUEST">99865781</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865781e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E863[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mighty day of the Lord, is coming. In which, Christ is exalting King upon the holy hill of Sion, over all the world to reign, who in this day of the Lord knocks at the door of the heart of Jew and Gentile, kindreds, tongues, people and nations, who desires to know the onely true God, and Christ Jesus whom he hath sent to be the light of the world, and salvation to the ends of the earth, to all that obey him; but a stone of stumbling and a rock of offence to all that reject his counsel, whom he will take in their own craft, and overturn in their own devices to the shame and confusion of their faces; but they that believe in him, shall never be ashamed. The word of the Lord to all the faithful scattered in the world, that in the counsel of the Lord stands to strengthen the desires raised towards his name, them to give victory over the world. A warning to all that dwell upon the earth, and to the kings, princes, and rulers in the world, to submit to Christ the light of the world, lest they perish in the day of his fierce wrath, when the hearts of all that disobey him, do fall before him. / From the common goal in Northampton, the 7 day of the 11 month, 1655. Given forth by him the world knows by name, William Dewsbery, at the writing of this, prisoner for the word of God, and testimony of Jesus Christ.</title>
+                  <author>Dewsbury, William, 1621-1688.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, at the Black-spread-Eagle at the west-end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 12 1655".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168356:1"/>
+            <p>THE MIGHTY DAY OF The LORD, is Coming.</p>
+            <p>In which, Christ is exalting King upon the holy Hill of <hi>Sion,</hi> over all the world to reign, who in this day of the Lord knocks at the door of the heart of Jew and Gentile, Kindreds, Tongues, People and Nations, who desires to know the onely true God, and Christ Jesus whom he hath sent to be the Light of the world, and Salvation to the ends of the Earth, to all that obey him; but a stone of stumbling and a rock of of<g ref="char:EOLhyphen"/>fence to all that reject his counsel, whom he will take in their own craft, and overturn in their own devices to the shame and confusion of their faces; but they that be<g ref="char:EOLhyphen"/>lieve in him, shall never be ashamed.</p>
+            <p>The Word of the Lord to all the faithful scattered in the World, that in the Counsel of the Lord stands to strengthen the Desires raised towards his Name, them to give Victory over the World.</p>
+            <p>A Warning to all that dwell upon the Earth, and to the Kings, Princes, &amp; Rulers in the World, to submit to Christ the Light of the world, lest they perish in the day of his fierce wrath, when the hearts of all that disobey him, do fall before him.</p>
+            <p>From the common Goal in <hi>Northampton,</hi> the 7 day of the 11 Month, 1655. Given forth by him the world knows by name, <hi>William Dewsbery,</hi> at the writing of this, prisoner for the word of God, and Te<g ref="char:EOLhyphen"/>stimony of Jesus Christ.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Giles Calvert,</hi> at the Black-spread-Eagle at the West-end of <hi>Pauls,</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168356:2"/>
+            <pb n="1" facs="tcp:168356:2"/>
+            <head>The Mighty Day of the LORD is Coming, <hi>&amp;c.</hi>
+            </head>
+            <div type="part">
+               <opener>
+                  <salute>You People,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>Hose Natural Birth and Generation were in the Northern Islands, whom the LORD GOD of Heaven and Earth hath placed, where he hath suffered you to be scatter<g ref="char:EOLhyphen"/>ed into <hi>BARBADOES, VIRGINY, New-ENGLAND,</hi> and other Islands there-a<g ref="char:EOLhyphen"/>wayes, and Countries elsewhere: and to every Kindred, Tongues, and People, and Nations, in whom there is Desires raised to Know the onely true GOD, and JE<g ref="char:EOLhyphen"/>SUS CHRIST whom he hath sent to be the Light of the World to guid the Feet of those that hath sate in Darkness, in the Light and Ways of Righteousness and Peace.</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:168356:3"/>
+               <head>To you the Mighty Day of the Lord is Coming,</head>
+               <p>AND in his power is appearing amongst you in raising Desires in some of you towards his Name; which Desires cannot be satis<g ref="char:EOLhyphen"/>fied with any outward Observations and Traditions of your Fathers; but above them. Doth your Mindes raise in true Hunger and Thirst towards the living GOD, for Refreshment from his Presence? prize the Love of GOD to you, in whom he hath raised Desires towards him; and look not forth at any that teaches you to hearken to Teachings of Men without, who draws you to seek CHRIST and GOD without, and to come to the Knowledge of the Kingdom of GOD in outward Observations, with which the Kingdom of GOD comes not, the King<g ref="char:EOLhyphen"/>dom of GOD is within: &amp; as the Lightning is from the East to the West, so is the coming of the Son of Man in his Day, whose Appearance is within.</p>
+               <p>But you People, in the Day of Darkness and Ignorance, that have been over the whole Earth, have been deceived in looking forth all Teachings of Men without, and for the Kingdom of GOD to come in outward Observations, that Men have set up in their vain Thoughts, wicked and carnal Imaginations of the Saints conditions, which is re<g ref="char:EOLhyphen"/>corded in the Scriptures of Truth: but they not regarding the Moti<g ref="char:EOLhyphen"/>ons of the Spirit of GOD within, which taught and guided the Saints, they are strangers to the Saints Life, though they speak great swelling words of the Knowledge of GOD, and with them deceives the simple, with the inticing words of Man's Wisdom, and boasting in other Mens Lines made ready to their Hands; but they themselves are as natual brute Beasts, living without the Fear of GOD, in Pride, Covetous<g ref="char:EOLhyphen"/>ness, Dissemulation, and Hypocrisie, full of self-Love, making their Bellies their God, delighting their Hearts in the Creatures Injoyments and visible Objects, and are men-Pleasers, having their persons in Ad<g ref="char:EOLhyphen"/>miration, and them respecting for advantage. And these Men who are ignorant of the onely true GOD, you have followed, to teach you to know God, who hath drawn you to worship an unknown GOD, in the Ignorance of your Mindes, so have they destroyed the Souls of many, and you People perish for want of Knowledge, <hi>Hoseah</hi> 4.6. in being caused to erre with the Lyes and Lightness of these false Prophets, which
+<pb n="3" facs="tcp:168356:3"/>the Lord is against, who run when the Lord never sent them, as the false Prophets did, when the Lord sent his true Prophet, <hi>Jeremiah,</hi> to cry a<g ref="char:EOLhyphen"/>gainst them, <hi>Jer.</hi> 23.32. All people who desires to know the living God, let the time past be sufficient, you have followed Men, who have de<g ref="char:EOLhyphen"/>ceived you, and cease from them, and turn to the true Prophet, whom <hi>Moses</hi> the Servant of the Lord, declared, the Lord God would rise up, <hi>Deut.</hi> 18.15. his elect and chosen Servant, to raise up the Tribes of <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi> and to restore the preserved of <hi>Israel,</hi> whom he hath also given for a right to the Gentiles, and to be his Salvation to the ends of the Earth, whom <hi>Isaiah</hi> the Prophet declared the Lord would raise up to open the Fountain of Life and Salvation to all that thirst, <hi>Isa.</hi> 55.1, 2, 3. and now witnessed with all that hearken to his Councel, who calls, <hi>Ho every one that thirsteth, come ye to the waters; and he that hath no money, come ye, buy, and eat; yea, buy wine and milk without money, and without price. Wherefore do you lay out your money for that which is not bread, and your la<g ref="char:EOLhyphen"/>bour for that which satisfies not? Hearken diligently to me, and eat that which is good, and let your souls delight it self in fatness. Incline your ear, and come unto me, hear, and your souls shall live, and I will make an everlasting covenant with you, even the sure mercies of David.</hi> All people, no longer look forth, the glad tidings of the Gospel of eternal Salvation is heard within, in this day of the Lord's Mercy; wherein he is teaching his people himself, as was declared by the Prophet, <hi>Isa.</hi> 54.13. and now wit<g ref="char:EOLhyphen"/>nessed with all the Children of Light, whose Mindes are turned within to wait on the Lord for Teaching, to establish them in the Covenant of Life and Peace, who is performing his Promise to all that wait on him, which he declared by his Servant the Prophet, <hi>Jer.</hi> 31.33, 34. <hi>This shall be the Covenant I will make with the house of Israel, After those dayes, saith the Lord, I will put my law in their hearts, and write it in their inward parts, and will be to them a God, and they shall be to me a people: and they shall no more teach every man his neighbour, and every man his brother, say<g ref="char:EOLhyphen"/>ing, Know the Lord; for they shall all know me from the least of them, to the greatest of them, saith the Lord; for I will be merciful to their unrighteousness, and their sin, and their iniquity will I remember no more.</hi>
+               </p>
+               <p>Therefore every one that desires to know the onely true God, and Christ Jesus whom he hath sent. Turn your mindes within, and ex<g ref="char:EOLhyphen"/>amine your hearts, search and try your wayes with the light Christ Je<g ref="char:EOLhyphen"/>sus hath enlightned you withal, that shews you in your hearts what is sin, that pride, and covetousness is sin; lying, swearing, is sin; dissemula<g ref="char:EOLhyphen"/>tion, cheating, cousning, is sin; vain idle communications, foolish jesting, and unbelief, is sin; and these things you know in your consciences to be sin, by the righteous Law of God in the heart, that reproves you for them in the secret of the heart and conscience, there is your Teacher the Spirit of the Lord within, which in this Mighty Day of his power, he is
+<pb n="4" facs="tcp:168356:4"/>pouring his Spirit upon all flesh, according to his promise, declared by the Prophet, <hi>Joel</hi> 2.28, 29. and now witnessed with his Sons and Daugh<g ref="char:EOLhyphen"/>ters, who walk in the light, led and guided by his Spirit within, which keeps the Conscience void of offence towards God, and towards Men. Every one diligently hearken to the counsel of the Lord the Light that witnesses for God in the conscience, give up to be guided by it: then you need no more to be taught of Man, neither shall your teacher be re<g ref="char:EOLhyphen"/>moved any more into a corner, but thine eye shall see thy teacher, and thine ear shall hear a voice behinde thee, saying, This is the way, walk in it, when thou turns to the right hand or to the left; as was declared by <hi>Isaiah</hi> the Prophet, <hi>Isa.</hi> 30.20. which is now witnessed, and that is the living word of God within, that hath raised desires in you towards God; every one in whom desires is raised wait in the light and power within, that hath raised the desires, and the Lord will them strengthen, and give you power to wait on him in the way of his judgements, till the carnal, earthly, sensual mindes, which hath led you to delight in lusts and pleasures and created injoyments below God, be cut down and slain with the word of God within, which is as sharp as a two-edged Sword to slay down the first man which is of the earth, earthly; then will you come to witness to be the slain of the Lord, and the sen<g ref="char:EOLhyphen"/>tence of death upon the first man who hath led you from God, with all the wisdom, strength and righteousness you have had in him, and in the power of the Spirit, you will be brought to the true sence of the po<g ref="char:EOLhyphen"/>verty of your Spirits, to hunger and thirst after the righteousness of God in Christ Jesus the Light, him to prize, and love, and self-judge, and deny with his light, and in his light want to dwell in his power, you to guide in every word and work in the light, where your union and fellowship will be with the Father of light, who will you keep (that faithful in him abide and dwell) in his mighty power and wisdom, as he ye moves to witness his minde in his pure power to the counfounding of the mighty, wise, and prudent men, who is exalted in the wisdom of the world, and counsel of their own hearts, not regarding to be guided by the counsel of God in Christ the Light.</p>
+               <p>To you tender Babes and Children of the most High, this is the word of the Lord God, in whom desires is raised towards his name; his coun<g ref="char:EOLhyphen"/>sel minde in you, and stand faithful in it, according to his word declared to you, and consult not with flesh and blood in the light and life: lift up your heads and freely give up soul and body to the Lord God of heaven and earth, that he the Kingdom of Jesus Christ exalt in you, to guide you in perfect obedience to his righteous law written in the heart for the exercise of the conscience towards God &amp; men, and sear not man, whose breath is in his nostrils, who stands up to oppose the Lord in this mighty day of his power, wherein he is exalting Christ Jesus the Light,
+<pb n="5" facs="tcp:168356:4"/>to be King for ever in his light, be faithful to the Lord, and though you be hailed before Rulers, Governours, and Kings for a testimony a<g ref="char:EOLhyphen"/>gainst them, take no thought what you shall say, but keep within, staid in the counsel of God, it will be given you in the self-same hour, my hea<g ref="char:EOLhyphen"/>venly Father will in you speak, and his enemies confound before his mighty power in you, the hearts of the great and mighty men of the earth shall fail, and paleness shall gather into their faces, the dread of the holy God will be with you, who faithful give up to be guided by his counsel in the power of his Spirit: one shall chase a thousand, and five put ten to flight: the decree is gone forth, Christ shall be King over all the Nations of the world, and all the powers of the world, that him withstands, he will break them with his iron-rod, and dash them in pieces like a potters vessel, so shall they become as dust before his breath, the mouth of the Lord hath spoken it, who is giving the Kingdoms of the world to his Son, &amp; to you that wait for his apperance, the living sound is come, that doth witness, that not any weapon formed against him shall prosper in this day of his appearance in the hearts of his Saints.</p>
+               <p>In the presence of the Lord, I you warn and charge, stand fast in the counsel of the Lord Jesus Christ, the Light in the Conscience, and accor<g ref="char:EOLhyphen"/>ding to the measure you have received, be faithful in walking with God in perfect obedience to his will, freely giving up your bodies to finish your testimony in sufferings if the Lord call you; for it is not given only to believe in him, but to suffer with him, and they that suffer with him shall raign with him, and the Son of Man is perfect in suffering: and you that are faithful to the Lord, he will lay no more upon you than he gives you strength to bear, with the Angels of his presence he will you guard, and compass you about with Salvation for walls and bulwarks, and you shall know this is to you the word of the Lord God,</p>
+            </div>
+            <div type="part">
+               <head>The Day will declare it,</head>
+               <p>ALL people who dwell upon the earth from the highest to the lowest, fear the most high and living God, who hath created heaven and earth, and the fountain of waters, and all return to his counsel, the light of Christ that witness for God in the conscience against sin in its appear<g ref="char:EOLhyphen"/>ance in the secret of the heart, and diligently encline your ear to the counsel of Christ the Light, that he may guid you by his Spirit, lest thorow your disobedience you perish before him in this Mighty Day of the Lords power in which he is coming with fire and sword to plead with all flesh, and not any that transgresseth his righteous Law in the conscience shall escape his righteous judgement in this his day. He is bringing down the loftiness of man, and the haughtiness of his Spirit laying low, and exalting his Son Christ Jesus to be King, over all to rule, <hi>The heathen he will give him for his inheritance, and the uttermost parts
+<pb n="6" facs="tcp:168356:5"/>of the earth for his possession, and the Kingdom he will establish to his Son, whose kingdom is an everlasting kingdom, &amp; of his dominion there shall be no end.</hi> Come down ye Kings, Princes and Rulers in the world, who in the Throne sit in pride exalted to rule in your wills, contrary to the pure perfect Law of God, the light of Christ in your conscience to which you must come and own your condemnation for your pride &amp; disobedience, and to his counsel, the light in your conscience, return in subjection to Christ the Son of God, and at his feet your crowns lay down, and honors in the dust before him, and wait on him in his counsel, the light, that he may guid you by his spirit in the fear of God to walk humbly before him in your places, to rule for God, to break the bonds of iniquity, &amp; let the oppressed go free, that the glory of the most high God, alone you seek, and not great things for your selves, as you have done, and in this day of darkness while you have lived without the fear of God, not regarding to be guided by his pure perfect law, the light of Christ in the consci<g ref="char:EOLhyphen"/>ence, let the time past be sufficient, you have lived to your selves with<g ref="char:EOLhyphen"/>out God in the world, and with all diligence obey the word of the Lord, which is to you declared in this day of your visitation, wherein the Lord tenders eternal Salvation to you, in Christ the Light whom the Father is well pleased with all that obey him, which if you be obedient to Christ and wait on him to guid you by his counsel the light, he will you lead in the straight and narrow way of self-denial, and dayly Cross, into the holy City new <hi>Jerusalem,</hi> the light of which, all Nations that are saved walk therein, and the Kings of the earth shall bring their glory &amp; honor unto it, where your souls will be refreshed with the living mercies of God in Christ the light, to praise him for ever in the beauty of holiness; but if you his counsel reject, and walk in pride, self love, delighting your hearts in the glory of the world, and the pleasures therein, and so slight this day of your visitation, then the things belonging to your peace will be hid from your eyes, &amp; sudden destruction, as a whirlwind, shall over<g ref="char:EOLhyphen"/>take you; for <hi>Sions</hi> King, whom you disobey, will break you with his rod of iron, and dash you to pieces like a potters vessel, and you shall be cut down and slain with the sword that proceeds out of the mouth of him, whose name is called the word of God. Now while you have time, to him submit, and kiss the Son in obeying his counsel, the light in the consci<g ref="char:EOLhyphen"/>ence, lest you perish in the way; for if his anger be kindled a little, Blessed are all they that trust in him: remember you are warned in your life-time, he that hath an ear to hear let him hear. <hi>The kingdoms of this world are become the kingdoms of our Lord, and of his Christ, and he shall raign for ever and ever,</hi> Rev. 11.15.</p>
+            </div>
+            <epigraph>
+               <q>He that can receive it, let him.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
